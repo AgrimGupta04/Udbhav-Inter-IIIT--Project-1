@@ -1,0 +1,44 @@
+# Core environment
+python-dotenv
+pandas
+numpy
+
+# PDF/text processing
+PyPDF2
+pdfminer.six
+tqdm
+fpdf
+
+# LLM and embeddings
+openai
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+sentence-transformers
+
+# Vector database
+chromadb
+
+# Optional: local embeddings
+faiss-cpu
+
+# Data fetching / preprocessing
+requests
+
+# API serving (if you expose endpoints)
+fastapi
+uvicorn
+
+# Utils
+pydantic
+loguru
+
+# For notebook demos / experiments
+jupyter
+
+# Embedding 
+transformers
+
+# Frontend
+streamlit
